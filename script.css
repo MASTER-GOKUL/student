@@ -156,26 +156,6 @@ input,button{
     transform: scale(0.95);
 }
 
-.main_container .login_form .login_footer{
-    text-align: right;
-}
-.main_container .login_form .login_footer a{
-    display: inline-block;
-    padding: 5px 10px;
-    text-decoration: none;
-    background: #0001;
-    color: #fff;
-    font-size: 15px;
-    text-shadow: 1px 1px 1px #0002;
-    transition: color 0.3s;
-}
-.main_container .login_form .login_footer a:hover{
-    color: #66edff;
-}
-
-
-
-
 @keyframes move {
 
     0%,
